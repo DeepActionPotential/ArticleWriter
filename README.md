@@ -1,6 +1,6 @@
 # ArticleWriterAgent — AI-Powered Article Writing Agents
 
-A lightweight Flask app that orchestrates CrewAI agents to research, outline, and write polished, markdown-formatted articles from a single topic. ✨🛠️
+A lightweight Flask app that orchestrates CrewAI agents to research, outline, and write polished, markdown-formatted articles from a single topic.
 
 ## Table of Contents
 - **[Demo](#demo)**
