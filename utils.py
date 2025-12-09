@@ -1,6 +1,4 @@
 
-
-
 def filter_article(str:str):
     """
     Filters the article content to remove any unwanted characters or formatting.
