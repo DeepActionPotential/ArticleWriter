@@ -16,7 +16,6 @@ llm = LLM(
 
 maker = ArticleMaker(llm)
 
-
 # Page config
 st.set_page_config(
     page_title="AI Article Writer",
